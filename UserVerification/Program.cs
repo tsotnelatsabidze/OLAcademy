@@ -1,6 +1,6 @@
 ﻿using System;
 
-class UserVerification
+class Program
 {
     static void Main()
     {
